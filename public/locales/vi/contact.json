@@ -1,0 +1,42 @@
+{
+    "title": "Sẵn sàng tạo dự án của riêng bạn",
+    "desc": "Chúng tôi sẽ liên hệ lại bạn trong vòng 24h sau khi nhận được yêu cầu của bạn",
+    "required": "Vui lòng điền đủ thông tin các mục có dấu *",
+    "inform":{
+        "address": "Địa chỉ:",
+        "email": "Email:",
+        "fax": "Fax:",
+        "workHour": "Thời gian làm việc:"
+    },
+    "label": {
+        "consultancy": "Tư Vấn",
+        "name": "Họ và tên *",
+        "email": "Địa chỉ Email *",
+        "phone": "Số điện thoại",
+        "company": "Tên công ty",
+        "message": "Chúng tôi có thể giúp gì cho bạn?",
+        "selection": "Loại hình tư vấn?",
+        "budgets": "Ngân sách",
+        "unit": "Triệu VND",
+        "check": "Bằng cách gửi form, bạn đồng ý với các ",
+        "term": "Điều khoản & Điều kiện của chúng tôi",
+        "submit": "Gửi yêu cầu",
+        "privacyPolicy": "Chính sách bảo mật"
+    },
+    "modal": {
+        "title": "Đã gửi thành công",
+        "message": "Cảm ơn bạn, Chúng tôi sẽ liên hệ với bạn trong giờ làm việc để thảo luận về dự án của bạn."
+    },
+    "markPoint": {
+        "maxRange": "250",
+        "defaultRange": "[0,50]",
+        "value": {
+            "point1": "0",
+            "point2": "50",
+            "point3": "100",
+            "point4": "150",
+            "point5": "200"
+        }
+    },
+    "requestFreeConsultant": "Yêu cầu tư vấn <span className=\"fw-normal\">Miễn phí</span>"
+}

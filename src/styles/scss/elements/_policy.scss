@@ -1,0 +1,28 @@
+.policy {
+    .section-policy {
+        .title-policy {
+            font-size: 28px;
+            font-weight: 600;
+            color: var(--color-secondary);
+        }
+
+        .detail-policy {
+            margin-left: 10px;
+            margin-bottom: 8px;
+            font-size: 16px;
+            line-height: 22px;
+            color: #121212;
+        }
+
+        ul {
+            list-style: disc !important;
+            margin-left: 25px;
+
+            li {
+                font-size: 16px;
+                line-height: 22px;
+                color: #121212;
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "perfectItSolutions": "Perfect IT Solutions",
+    "forYourBusiness": "For Your Business",
+    "moreAboutUs": "More About Us",
+    "whyChooseUs": "Why choose us",
+    "boostYourBusiness": "Boost Your Business",
+    "withNewTech": "With New Tech",
+    "whyChooseUsDes": "Our company can assist you in transforming your business through the latest tech capabilities to stay ahead of the curve.",
+    "headerSubTitle": "RIKSOFT aims to provide high-quality software services and products that meet international standards to both the Vietnamese and global markets. We have been and are gradually asserting our position as a leading enterprise in providing information technology services, becoming a top technology partner and driving digital transformation.",
+    "howWeWork": "How We Works",
+    "whyChooseUsList": {
+        "item1": "Latest IT Solutions",
+        "item2": "Clean, maintainable code quality",
+        "item3": "Data Analytics",
+        "item4": "AI Machine Learning & Deep Learning",
+        "item5": "Dedicated Support 24/7"
+    },
+    "showreels": "Showreels",
+    "trustedByManyBusiness": "Trusted By Many <span>Business</span>",
+    "clientsSubtitle": "Hundreds of companies trust and choose RIKSOFT",
+    "newsSubTitle": "Latest Posts",
+    "portfolio": "Portfolio",
+    "portfolioSuccess": "Projects Success",
+    "heroTitle": "IT Consulting & Service Provider",
+    "meetOurExpert": "Meet Our Amazing Team",
+    "teamSubTitle": "Clients Satisfaction, <span className=\"fw-normal\">Our Reputation</span>"
+
+}

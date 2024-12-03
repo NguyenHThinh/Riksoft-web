@@ -1,0 +1,51 @@
+{
+    "title": "Our Services",
+    "desc": "We provide high-quality software technology solutions and IT services for your business.",
+    "otherFeatures": "Other Awesome <span>Features</span>",
+    "otherFeaturesDesc": "Riksoft Dashboard is a powerhouse when it comes to the feature list. This ensures you have every functionality you need to build, run, and expand your marketplace",
+    "topServices": "Our Top Services",
+    "topServicesDesc": "Make Your Business Better <p>Provide highest quality design and technology solution</p>",
+    "service1":{
+        "title": "IT Services",
+        "option1": "Web Development",
+        "option2": "Enterprise Software Development",
+        "option3": "Software programming as required",
+        "option4": "SEO Website, Ads Facebook Optimize",
+        "option5": "Managed Services Quality Assurance & Testing",
+        "itRemoteHelpDesk": "IT Remote Help Desk"
+    },
+    "service2":{
+        "title": "Digital Solutions",
+        "option1": "Digital Transformation Consulting",
+        "option2": "Data Analytics",
+        "option3": "Cloud Services",
+        "option4": "Hosting, Domain"
+    },
+    "service3":{
+        "title": "Working Models",
+        "option1": "Project-based Outsourcing",
+        "option2": "Dedicated Team"
+    },
+
+    "pricing": {
+        "choosePlan": "Choose Plan and Kick-start",
+        "desc": "Whether you’re just getting started with rapid testing or scaling across the organization, we’ve got you covered.",
+        "billMonth": "Billed Monthly",
+        "billYear": "Billed yearly",
+        "yr": "/yr",
+        "mo": "/mo"
+    },
+    "bestChoice": "best choice",
+    "optimizedExperiences": "Optimized User Experiences",
+    "optimizedExperiencesDesc": "Optimized user experiences are ensured by Riksoft's software through high-quality code and a strong focus on user-centric design.",
+    "paymentGateways": "100+ Payment Gateways",
+    "paymentGatewaysDesc": "With Iteck Marketplace, choose from hundreds of payment gateways for your customers. From PayPal to Stripe to Skrill, Visa Debit, Master Card, etc",
+    "easyCustom": "Easy To Customizable",
+    "easyCustomDesc": "Marketplace Owners Trust Us",
+    "prevService": "Prev Service",
+    "nextService": "Next Service",
+    "servicesCats": "Services Category",
+    "callToAction": "Call To Action",
+    "makeRequest": "Make An Custom Request",
+    "getQuote": "Get A Quote"
+}

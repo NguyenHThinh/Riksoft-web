@@ -1,0 +1,45 @@
+{
+    "title": "Ready To Start A Projects",
+    "desc": "We will contact again after receive your request in 24h",
+    "required": "The field is required mark as *",
+    "inform":{
+        "address": "Address:",
+        "email": "Email:",
+        "fax": "Fax:",
+        "workHour": "Work Hour:"
+    },
+    "label": {
+        "consultancy": "Consultancy",
+        "address": "Address:",
+        "fax": "Fax",
+        "name": "Name *",
+        "email": "Email Address *",
+        "phone": "Phone number",
+        "company": "Your Company",
+        "message": "How can we help you?",
+        "selection": "Type of consultation?",
+        "budgets": "Budgets",
+        "unit": "$",
+        "check": "By submitting, i'm agreed to the",
+        "term": "Terms & Conditons",
+        "submit": "Send Your Request",
+        "privacyPolicy": "Privacy Policy"
+    },
+    "modal": {
+        "title": "Submit Success",
+        "message": "Thanks you, Our IT Experts Will Reach Out To You During Business Hours To Discuss Your Project."
+    },
+    "markPoint": {
+        "maxRange": "10000",
+        "defaultRange": "[0,1000]",
+        "value": {
+            "point1": "0",
+            "point2": "2000",
+            "point3": "4000",
+            "point4": "6000",
+            "point5": "8000"
+        }
+    },
+    "requestFreeConsultant": "Request Free <span className=\"fw-normal\">Consultancy</span>"
+
+}

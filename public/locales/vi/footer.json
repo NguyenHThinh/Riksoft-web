@@ -1,0 +1,25 @@
+{
+    "descCompany": "Best IT Solutions & Technology WordPress Theme for Your Busines",
+    "info": "Thông tin",
+    "newLetterText": "Đăng ký ngay để nhận thông tin mới nhất về các chương trình khuyến mãi và phiếu giảm giá.",
+    "checkSubscribe": "Bằng cách gửi form, bạn đồng ý với các",
+    "services": {
+        "ITConslutations": "Tư vấn kĩ thuật số",
+        "dataSecurity": "Bảo vệ dữ liệu",
+        "websiteDevelopment": "Phát triển Website",
+        "UIUX": "Thiết kế UI/UX",
+        "cloudServices": "Dịch vụ lưu trữ đám mây",
+        "gameDevelopment": "Phát triển Game",
+        "CRMSoftware": "CRM & Phần mềm"
+    },
+    "inform": {
+        "about": "Giới thiệu",
+        "investors": "Nhà đầu tư",
+        "blog":"Blog",
+        "career":"Sự nghiệp",
+        "contact":"Liên hệ",
+        "affiliateProgram":"Chương trình liên kết",
+        "howItWorks":"Cách thức hoạt động",
+        "pricingPlan":"Bảng giá"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "vision": {
+        "title": "Tiên phong công nghệ Việt, định hình tương lai số.",
+        "desc": "Với tầm nhìn như vậy, công ty cam kết:",
+        "point1": "Phát triển công nghệ tiên tiến để giải quyết các vấn đề thực tế.",
+        "point2": "Trở thành đối tác công nghệ hàng đầu, thúc đẩy chuyển đổi số.",
+        "point3": "Nâng cao vị thế của Việt Nam trên bản đồ công nghệ toàn cầu."
+    },
+    "mission": {
+        "title": "Cung cấp các dịch vụ, sản phẩm phần mềm chất lượng cao, đạt tiêu chuẩn quốc tế từ Việt Nam tới khách hàng toàn cầu.",
+        "desc": "Cung cấp môi trường để các tri thức, trí tuệ Việt Nam phát triển, cùng khởi nghiệp. Thúc đẩy văn hóa đổi mới và sáng tạo thúc đẩy cải tiến liên tục."
+    },
+    "coreValue" :{
+        "title": "Core value",
+        "R": "Resilience, Reliable",
+        "I": "Innovate",
+        "K": "Knowledgeable"
+    },
+    "header":"Về <span className='ms-2'>RIKSOFT<img src='/assets/img/header/head5_line.png' alt='' className='head-line'/><img src='/assets/img/header/head5_pen.png' alt='' className='head-pen'/></span>",
+    "subHeader": "RikSoft là công ty chuyên cung cấp các giải pháp công nghệ phần mềm <br/> và dịch vụ IT chất lượng cao đáp ứng mọi nhu cầu của khách hàng",
+    "description": "<p>Riksoft helps you unify your brand identity by collecting, storing and distributing <br />design tokens and assets — automatically.</p>",
+    "topReasons": "Lý do <span>chọn chúng tôi</span>",
+    "descTopReasons": "Unify your business data in one simple ecommerce dashboard",
+    "choseUsServices": "Với Riksoft Marketplace, lựa chọn từ hàng trăm cổng thanh toán để mang lại trải nghiệm tốt hơn cho khách hàng của bạn.",
+    "numbers":{
+        "yearOfExperience": "Years Of Experience",
+        "projectCompleted" : "Projects Completed",
+        "satisfiedClients": "Satisfied Clients On 24 Contries"
+    },
+    "descCulture": "Văn hóa của công ty là một phần quan trọng của mọi doanh nghiệp.",
+    "team": {
+        "title": "Ban lãnh đạo",
+        "desc": "Gặp gỡ ban lãnh đạo của chúng tôi"
+    },
+    "testimonials": {
+        "title": "Phản hồi của khách hàng",
+        "desc": "Riksoft được lựa chọn bởi hàng trăm khách hàng trên toàn cầu và được các công ty lớn tin tưởng."
+    },
+    "riksoftCompany": "Công ty TNHH RIKSOFT",
+    "affordablePrice": "Giá cả phải chăng",
+    "highQuantitySoftware": "Chất lượng cao",
+    "yearOfExperience": "Năm kinh nghiệm",
+    "projectsCompleted": "Dự án hoàn thành",
+    "softwareProductBrand": "Thương hiệu sản phẩm số",
+    "globalExpertAdvisors": "Chuyên gia cố vấn toàn cầu",
+    "slogan": "Tiên phong công nghệ, kiến tạo tương lai số",
+    "headingAbout": "Công ty RikSoft là đối tác lựa chọn của nhiều doanh nghiệp hàng đầu thế giới, doanh nghiệp vừa và nhỏ, và các nhà thách thức công nghệ.",
+    "subHeadingAbout": "Chúng tôi có chuyên môn sâu rộng trong nhiều ngành khác nhau và lĩnh vực công nghệ, cho phép chúng tôi cung cấp các giải pháp tùy chỉnh đáp ứng nhu cầu riêng của từng khách hàng. Tại RikSoft, chúng tôi cam kết thúc đẩy sự đổi mới, sáng tạo trong mọi dự án, đảm bảo khách hàng đạt được mục tiêu kinh doanh với hiệu quả và hiệu suất tối ưu với chi phí phù hợp nhất.",
+    "latestTechnology": "Công nghệ mới nhất",
+    "getInTouch": "Liên hệ với <span>Chúng tôi</span>"
+}

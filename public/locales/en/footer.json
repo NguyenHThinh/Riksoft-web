@@ -1,0 +1,25 @@
+{
+    "descCompany": "Best IT Solutions & Technology WordPress Theme for Your Busines",
+    "info": "Infomation",
+    "newLetterText": "Register now to get latest updates on promotions & coupons.",
+    "checkSubscribe": "By subscribing, you accepted the our",
+    "services": {
+        "ITConslutations": "IT Conslutations",
+        "dataSecurity": "Data Security",
+        "websiteDevelopment": "Website Development",
+        "UIUX": "UI/UX Design",
+        "cloudServices": "Cloud Services",
+        "gameDevelopment": "Game Development",
+        "CRMSoftware": "CRM & Software"
+    },
+    "inform": {
+        "about": "About Us",
+        "investors": "Investors",
+        "blog":"Blog",
+        "career":"Career",
+        "contact":"Contact",
+        "affiliateProgram":"Affiliate Program",
+        "howItWorks":"How It Works",
+        "pricingPlan":"Pricing Plan"
+    }
+}

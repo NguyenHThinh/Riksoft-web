@@ -1,0 +1,51 @@
+{
+    "title": "Dịch vụ của chúng tôi",
+    "desc": "Chúng tôi cung cấp các giải pháp công nghệ phần mềm và dịch vụ IT chất lượng cao cho doanh nghiệp của bạn",
+    "otherFeatures": "Other Awesome <span>Features</span>",
+    "otherFeaturesDesc": "Riksoft Dashboard is a powerhouse when it comes to the feature list. This ensures you have every functionality you need to build, run, and expand your marketplace",
+    "topServices": "Dịch vụ hàng đầu của chúng tôi",
+    "topServicesDesc": "Đồng hành cùng doanh nghiệp <p>Cung cấp các giải pháp thiết kế và công nghệ chất lượng cao nhất</p>",
+    "service1":{
+        "title": "Dịch vụ IT",
+        "option1": "Phát triển Website, Web App",
+        "option2": "Phát triển phần mềm doanh nghiệp",
+        "option3": "Lập trình phần mềm theo yêu cầu",
+        "option4": "SEO Website, Đo lường tối ưu Quảng cáo Facebook, Google",
+        "option5": "Quản lý đảm bảo chất lượng dịch vụ & Kiểm thử",
+        "itRemoteHelpDesk": "Hỗ trợ IT từ xa (IT Remote Helpdesk)"
+    },
+    "service2":{
+        "title": "Giải pháp kỹ thuật số",
+        "option1": "Tư vấn chuyển đổi số",
+        "option2": "Phân tích dữ liệu",
+        "option3": "Dịch vụ Cloud",
+        "option4": "Hosting, Domain"
+    },
+    "service3":{
+        "title": "Mô hình làm việc",
+        "option1": "Gia công phần mềm dựa trên dự án",
+        "option2": "Cho thuê đội ngũ riêng"
+    },
+
+    "pricing": {
+        "choosePlan": "Lựa chọn và bắt đầu ngay",
+        "desc": "Dù bạn mới bắt đầu với việc kiểm thử nhanh hay đang mở rộng quy mô trong toàn tổ chức, chúng tôi đều hỗ trợ bạn.",
+        "billMonth": "Theo tháng",
+        "billYear": "Theo năm",
+        "yr": "/năm",
+        "mo": "/tháng"
+    },
+    "bestChoice": "lựa chọn tốt nhất",
+    "optimizedExperiences": "Tối ưu hoá trải nghiệm người dùng",
+    "optimizedExperiencesDesc": "Trải nghiệm người dùng được tối ưu hóa với chất lượng mã nguồn sạch sẽ (clean code), chất lượng cao với sự tập trung mạnh mẽ vào thiết kế lấy người dùng làm trung tâm.",
+    "paymentGateways": "100+ Payment Gateways",
+    "paymentGatewaysDesc": "With Iteck Marketplace, choose from hundreds of payment gateways for your customers. From PayPal to Stripe to Skrill, Visa Debit, Master Card, etc",
+    "easyCustom": "Easy To Customizable",
+    "easyCustomDesc": "Marketplace Owners Trust Us",
+    "prevService": "Dịch vụ trước đó",
+    "nextService": "Dịch vụ tiếp theo",
+    "servicesCats": "Danh mục dịch vụ",
+    "callToAction": "Call To Action",
+    "makeRequest": "Make An Custom Request",
+    "getQuote": "Get A Quote"
+}

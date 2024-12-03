@@ -1,0 +1,11 @@
+{
+    "header":{
+        "title": "<span>Dự án</span> của chúng tôi ",
+        "desc": "Chúng tôi có đội ngũ nhân viên sản xuất và kiểm tra nhiều kinh nghiệm đảm bảo chất lượng của sản phẩm."
+    },
+    "startProject": "Bắt đầu dự án ngay bây giờ",
+    "showPrice": "Bảng giá & Kế hoạch",
+    "biggerSuccess": "Tiếp cận tiềm năng kinh doanh của bạn ngay hôm nay và tìm cơ hội <span>thành công lớn hơn<img src='/assets/img/header/head5_line.png' alt='' className='head-line'/><img src='/assets/img/header/head5_pen.png' alt='' className='head-pen'/></span>",
+    "relatedProject": "Các dự án liên quan",
+    "relatedProjectDesc": "Chúng tôi có đội ngũ nhân viên sản xuất và kiểm tra giàu kinh nghiệm để đảm bảo chất lượng."
+}

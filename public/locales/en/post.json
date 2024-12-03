@@ -1,0 +1,10 @@
+{
+    "header":{
+        "desc": "Get the latest articles from our journal, writing, discuss and share",
+        "timePost": "Post on"
+    },
+    "newLetter":{
+        "desc": "Register now to get latest updates on promotions & coupons."
+    },
+    "notFoundPost": "Not found any posts"
+}

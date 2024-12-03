@@ -1,0 +1,51 @@
+{
+    "vision": {
+        "title": "Pioneering Vietnamese technology, shaping the digital future.",
+        "desc": "With this vision, the company is committed to:",
+        "point1": "Developing cutting-edge technology to solve real-world problems.",
+        "point2": "Becoming a leading technology partner, driving digital transformation.",
+        "point3": "Elevating Vietnam's position on the global technology map."
+    },
+    "mission": {
+        "title": "Providing high-quality software services and products that meet international standards from Vietnam to global customers.",
+        "desc": "Provide an environment for Vietnamese knowledge and intellect to develop, along with entrepreneurship. Promote a culture of innovation and creativity to drive continuous improvement"
+    },
+    "coreValue" :{
+        "title": "Core value",
+        "R": "Resilience, Reliable",
+        "I": "Innovate",
+        "K": "Knowledgeable"
+    },
+    "header":"About <span className='ms-2'>RIKSOFT<img src='/assets/img/header/head5_line.png' alt='' className='head-line'/><img src='/assets/img/header/head5_pen.png' alt='' className='head-pen'/></span>",
+    "subHeader": "RikSoft is a company specializing in providing high-quality software technology solutions <br/> and IT services, meeting all customer needs.",
+    "description": "<p>Riksoft helps you unify your brand identity by collecting, storing and distributing <br />design tokens and assets — automatically.</p>",
+    "topReasons": "Top <span>Reasons</span>",
+    "descTopReasons": "Unify your business data in one simple ecommerce dashboard",
+    "choseUsServices": "With Riksoft Marketplace, choose from hundreds of payment gateways for your customers.",
+    "numbers":{
+        "yearOfExperience": "Years Of Experience",
+        "projectCompleted" : "Projects Completed",
+        "satisfiedClients": "Satisfied Clients On 24 Contries"
+    },
+    "descCulture": "Company's culture is a part important of any business",
+    "team": {
+        "title": "Our <span>Leaders</span>",
+        "desc": "Meet our leaders"
+    },
+    "testimonials": {
+        "title": "Clients Reviews",
+        "desc": "RikSoft loved from hundred customer worldwide and get trusted from big companies."
+    },
+    "riksoftCompany": "RIKSOFT Company Limited",
+    "affordablePrice": "Affordable Price",
+    "highQuantitySoftware": "High Quantity",
+    "yearOfExperience": "Year of Experience",
+    "projectsCompleted": "Projects completed",
+    "softwareProductBrand": "Digital Product Brand",
+    "globalExpertAdvisors": "Global Expert Advisors",
+    "slogan": "Leading Technology, Shaping the Digital Future.",
+    "headingAbout": "RikSoft Co is the partner of choice for many of the world’s leading enterprises, SMEs, and technology challengers. ",
+    "subHeadingAbout": "We have extensive expertise across various industries and technological domains, enabling us to provide customized solutions that meet the unique needs of each client. At RikSoft, we are committed to driving innovation and creativity in every project, ensuring our clients achieve their business goals with optimal efficiency and performance at the most competitive cost.",
+    "latestTechnology": "Latest Technology",
+    "getInTouch": "Get In <span>Touch</span>"
+}

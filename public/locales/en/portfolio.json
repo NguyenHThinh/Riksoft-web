@@ -1,0 +1,11 @@
+{
+    "header":{
+        "title": "Our <span> Projects </span>",
+        "desc": "We have an experienced team of production and inspection personnel to ensure quality."
+    },
+    "startProject": "Start A Project Now",
+    "showPrice": "See Pricing & Plan",
+    "biggerSuccess": "Access your business potentials today & find opportunity for<span>bigger success<img src='/assets/img/header/head5_line.png' alt='' className='head-line'/><img src='/assets/img/header/head5_pen.png' alt='' className='head-pen'/></span>",
+    "relatedProject": "Related Projects",
+    "relatedProjectDesc": "We have an experienced team of production and inspection personnel to ensure quality."
+}

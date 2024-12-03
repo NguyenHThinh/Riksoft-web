@@ -1,0 +1,27 @@
+{
+    "perfectItSolutions": "Giải pháp công nghệ toàn diện",
+    "forYourBusiness": "Cho doanh nghiệp",
+    "moreAboutUs": "Xem thêm về chúng tôi",
+    "whyChooseUs": "Tại sao chọn chúng tôi",
+    "boostYourBusiness": "Thúc đẩy doanh nghiệp của bạn",
+    "withNewTech": "Với những công nghệ mới",
+    "whyChooseUsDes": "Công ty chúng tôi có thể hỗ trợ bạn chuyển đổi hoạt động kinh doanh của mình thông qua khả năng công nghệ mới nhất để luôn dẫn đầu xu hướng.",
+    "headerSubTitle": " RIKSOFT với mục tiêu cung cấp các dịch vụ, sản phẩm phần mềm chất lượng cao, đạt tiêu chuẩn quốc tế tới thị trường Việt Nam và toàn cầu. Chúng tôi đã và đang dần khẳng định vị thế doanh nghiệp về cung cấp dịch vụ Công nghệ thông tin, Trở thành đối tác công nghệ hàng đầu, thúc đẩy chuyển đổi số.",
+    "howWeWork": "Cách chúng tôi làm việc",
+    "whyChooseUsList": {
+        "item1": "Giải pháp công nghệ mới nhất",
+        "item2": "Chất lượng mã sạch, dễ bảo trì",
+        "item3": "Phân tích dữ liệu",
+        "item4": "AI Machine Learning & Deep Learning",
+        "item5": "Hỗ trợ 24/7"
+    },
+    "showreels": "Video Giới thiệu",
+    "trustedByManyBusiness": "Được tin cậy bởi các <span>doanh nghiệp</span>",
+    "clientsSubtitle": "Hàng trăm công ty tin tưởng và lựa chọn RIKSOFT",
+    "newsSubTitle": "Bài viết mới nhất",
+    "portfolio": "Dự án",
+    "portfolioSuccess": "Các dự án thành công",
+    "heroTitle": "Tư Vấn & Cung Cấp Dịch Vụ công nghệ thông tin",
+    "meetOurExpert": "Gặp gỡ đội ngũ tuyệt vời của chúng tôi",
+    "teamSubTitle": "Sự hài lòng của khách hàng, <span className=\"fw-normal\">Uy tín của chúng tôi</span>"
+}

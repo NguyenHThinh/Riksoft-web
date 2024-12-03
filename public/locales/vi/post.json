@@ -1,0 +1,10 @@
+{
+    "header":{
+        "desc": "Get the latest articles from our journal, writing, discuss and share",
+        "timePost": "Đăng lúc"
+    },
+    "newLetter":{
+        "desc": "Đăng ký ngay để nhận thông tin mới nhất về các chương trình khuyến mãi và phiếu giảm giá."
+    },
+    "notFoundPost": "không tìm thấy bài post nào"
+}

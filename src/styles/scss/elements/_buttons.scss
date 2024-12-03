@@ -1,0 +1,207 @@
+
+
+
+/* --------------- buttons styles --------------- */
+.butn,
+.btn {
+    padding: 12px 30px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    font-weight: 500;
+    display: inline-flex;
+    text-align: center;
+    justify-content: center;
+    span {
+        // color: #fff;
+        font-size: 14px;
+        position: relative;
+        z-index: 2;
+        text-transform: capitalize;
+    }
+
+    small{
+        font-size: 12px;
+        position: relative;
+        z-index: 2;
+        text-transform: capitalize;
+    }
+
+    &.butn-gard {
+        &::before {
+            position: absolute;
+            content: "";
+            left: 0;
+            top: 0;
+            width: 150%;
+            height: 100%;
+            z-index: 1;
+            //background: linear-gradient(to right, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
+            background: linear-gradient(to right, #F83600 10%, #F88C00 45%, #F88C00, #F83600);
+            transition: all 0.3s ease;
+        }
+        &:hover {
+            &::before {
+                left: -50%;
+            }
+        }
+    }
+
+    &.light_brdr_butn {
+        // border: 1px solid #fff;
+        // background: transparent;
+        span {
+            // color: #fff;
+        }
+    }
+
+    &.dark-butn {
+        background: #000;
+        span,
+        small {
+            color: #fff;
+        }
+    }
+
+    &.butn-main6 {
+        background: var(--color-main6);
+        span,
+        small {
+            color: #fff;
+        }
+    }
+
+    &.main5-3Dbutn {
+        background: var(--color-main5);
+        box-shadow:0px 4px 0px 0px var(--color-main4);
+        filter: drop-shadow(0 13px 20px #07397235);
+        font-size: 12px;
+        span,
+        small {
+            color: #fff;
+        }
+    }
+
+
+    &.sm-butn {
+        padding: 10px 25px;
+        span {
+            font-size: 12px;
+        }
+    }
+    &:hover{
+        background: var(--color-main);
+        border-color: transparent !important;
+        span{
+            color: #fff;
+        }
+    }
+
+    // ----------
+
+    &.hover-darkBlue{
+        &:hover{
+            background: var(--color-darkBlue);
+            border-color: transparent !important;
+            span,
+            small{
+                color: #fff;
+            }
+        }
+    }
+
+    &.hover-main2{
+        &:hover{
+            background: var(--color-main2);
+            border-color: transparent !important;
+            span,
+            small{
+                color: #fff;
+            }
+        }
+    }
+
+    &.hover-main4{
+        &:hover{
+            background: var(--color-main4);
+            border-color: transparent !important;
+            span,
+            small{
+                color: #fff;
+            }
+        }
+    }
+
+    &.hover-main5{
+        &:hover{
+            background: var(--color-main5) !important;
+            border-color: transparent !important;
+            span,
+            small{
+                color: #fff;
+            }
+        }
+    }
+
+    &.hover-lightMain{
+        &:hover{
+            background: var(--color-lightMain);
+            border-color: transparent !important;
+            span,
+            small{
+                color: var(--color-darkBlue);
+            }
+        }
+    }
+
+    &.btn-icon-circle{
+        position: relative;
+        padding-right: 50px;
+        text-transform: capitalize;
+        i{
+            position: absolute;
+            right: -43px;
+            bottom: -5px;
+            width: 30px;
+            height: 30px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            color: #000;
+            background-color: #fff;
+            border-radius: 50%;
+            font-size: 16px;
+        }
+        &:hover{
+            box-shadow: 0 5px 10px #0003;
+            i{
+                animation: RL_smooth 1s ease-in-out infinite alternate both;
+            }
+        }
+    }
+
+    &.hover-shadow{
+        transition: all 0.3s ease;
+        &:hover{
+            box-shadow: 0 5px 10px #0003;
+        }
+    }
+}
+
+// ------ animation ------
+.scale_up_down{
+    animation: RL_smooth 1s ease-in-out infinite alternate both;
+}
+@keyframes RL_smooth {
+    0%{
+        transform: translateX(0);
+    }
+    50%{
+        transform: translateX(5px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
+
+
